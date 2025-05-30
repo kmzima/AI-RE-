@@ -97,8 +97,7 @@ Overall our findings contribute to understanding how reproduced implementations 
 
 
 #### Disclaimer
-This code was submitted in partial fulfilment of the an MSc in Data Science degree at the University of Witwatersrand.
-AI tools were used to help in implementing the code but the code was written and implemented by me. 
+This code was submitted in partial fulfilment of an MSc in Data Science degree at the University of Witwatersrand. 
 
 
 
