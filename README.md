@@ -48,15 +48,7 @@ python run_experiments.py
 - total runtime is approximately 672 mins
 
 ## Repository Structure
-├── domain.py                  # 15-puzzle & IDA* search
-├── StateRepresentation.py     # One-hot & feature encodings
-├── NeuralNetworkComponents.py # FFNN, WUNN, uncertainty modeling
-├── run_experiments.py         # Experiment entry point
-├── hyperparameter_config.py   # Hyperparameter definitions
-├── paper_experiments.py       # Experimental protocol
-├── results/                   # Experiment output
-├── plots/                     # Output visualizations
-└── README.md
+<pre lang="markdown"> <details> <summary><strong> Repository Structure</strong></summary> ```text ├── domain.py # 15-puzzle & IDA* search ├── StateRepresentation.py # One-hot & feature encodings ├── NeuralNetworkComponents.py # FFNN, WUNN, uncertainty modeling ├── run_experiments.py # Experiment entry point ├── hyperparameter_config.py # Hyperparameter definitions ├── paper_experiments.py # Experimental protocol ├── results/ # Experiment output ├── plots/ # Output visualizations └── README.md ``` </details> </pre>
 
 ## Expected Results that we produced
 - suboptimality_results.json
@@ -100,6 +92,7 @@ Hyperparameters were all set as in the original paper and can be accessed and mo
 - Lower training solve rates
 - Suboptimality difficulty due to limited task success
 - Effeciency is partially reproduced.
+
 Overall our findings contribute to understanding how reproduced implementations can vary from the original design.
 
 
