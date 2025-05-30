@@ -32,18 +32,19 @@ This study reproduces the uncertainty-based framework for learning likely-admiss
 - Matplotlib
 
 ### Setup
-'''bash
+
 git clone https://github.com/[kmzima]/AI-RE-.git
+
 cd uncertainty-heuristic-reproduction
+
 pip install torch numpy scipy matplotlib
 
-## For quick test run use
-\texttt{python run_experiments.py --quick}
+### For quick test run use
+python run_experiments.py --quick
 - approximately 30 mins runtime
 
-## For Full Reproduction run use
-\texttt{python run_experiments.py
-}
+### For Full Reproduction run use
+python run_experiments.py
 - total runtime is approximately 672 mins
 
 ## Repository Structure
