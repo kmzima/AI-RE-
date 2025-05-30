@@ -1,0 +1,79 @@
+{
+  "0.95": {
+    "avg_time": 10.931986729303995,
+    "avg_nodes_generated": 81712.58333333333,
+    "avg_nodes_expanded": 54927.583333333336,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 12,
+    "timeout_count": 18,
+    "failed_count": 1,
+    "total_tested": 30
+  },
+  "0.9": {
+    "avg_time": 9.593355798721314,
+    "avg_nodes_generated": 59483.4,
+    "avg_nodes_expanded": 40789.0,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 10,
+    "timeout_count": 20,
+    "failed_count": 1,
+    "total_tested": 30
+  },
+  "0.75": {
+    "avg_time": 13.863567003836998,
+    "avg_nodes_generated": 76059.53846153847,
+    "avg_nodes_expanded": 51809.307692307695,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 13,
+    "timeout_count": 17,
+    "failed_count": 1,
+    "total_tested": 30
+  },
+  "0.5": {
+    "avg_time": 13.203686785697936,
+    "avg_nodes_generated": 56408.8,
+    "avg_nodes_expanded": 38290.3,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 10,
+    "timeout_count": 20,
+    "failed_count": 1,
+    "total_tested": 30
+  },
+  "0.25": {
+    "avg_time": 14.031585772832235,
+    "avg_nodes_generated": 75314.0,
+    "avg_nodes_expanded": 51201.75,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 12,
+    "timeout_count": 18,
+    "failed_count": 1,
+    "total_tested": 30
+  },
+  "0.1": {
+    "avg_time": 10.265481400489808,
+    "avg_nodes_generated": 39874.7,
+    "avg_nodes_expanded": 27206.6,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 10,
+    "timeout_count": 20,
+    "failed_count": 1,
+    "total_tested": 30
+  },
+  "0.05": {
+    "avg_time": 16.037329305302013,
+    "avg_nodes_generated": 54131.63636363636,
+    "avg_nodes_expanded": 36900.27272727273,
+    "avg_suboptimality": NaN,
+    "percent_optimal": 100.0,
+    "solved_count": 11,
+    "timeout_count": 19,
+    "failed_count": 1,
+    "total_tested": 30
+  }
+}

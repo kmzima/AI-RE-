@@ -1,0 +1,58 @@
+{
+  "GTP": {
+    "training_solve_rate": 15.0,
+    "test_solve_rate": 43.0,
+    "training_solved": 30,
+    "training_total": 200,
+    "test_solved": 43,
+    "test_total": 100
+  },
+  "LengthInc_1": {
+    "training_solve_rate": 89.5,
+    "test_solve_rate": 46.0,
+    "training_solved": 179,
+    "training_total": 200,
+    "test_solved": 46,
+    "test_total": 100
+  },
+  "LengthInc_2": {
+    "training_solve_rate": 62.5,
+    "test_solve_rate": 42.0,
+    "training_solved": 125,
+    "training_total": 200,
+    "test_solved": 42,
+    "test_total": 100
+  },
+  "LengthInc_4": {
+    "training_solve_rate": 27.0,
+    "test_solve_rate": 39.0,
+    "training_solved": 54,
+    "training_total": 200,
+    "test_solved": 39,
+    "test_total": 100
+  },
+  "LengthInc_6": {
+    "training_solve_rate": 18.5,
+    "test_solve_rate": 37.0,
+    "training_solved": 37,
+    "training_total": 200,
+    "test_solved": 37,
+    "test_total": 100
+  },
+  "LengthInc_8": {
+    "training_solve_rate": 14.499999999999998,
+    "test_solve_rate": 41.0,
+    "training_solved": 29,
+    "training_total": 200,
+    "test_solved": 41,
+    "test_total": 100
+  },
+  "LengthInc_10": {
+    "training_solve_rate": 11.0,
+    "test_solve_rate": 43.0,
+    "training_solved": 22,
+    "training_total": 200,
+    "test_solved": 43,
+    "test_total": 100
+  }
+}

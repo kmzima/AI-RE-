@@ -1,0 +1,79 @@
+[
+  {
+    "iteration": 1,
+    "solved_count": 9,
+    "timeout_count": 1,
+    "failed_count": 0,
+    "solve_rate": 0.9,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 133.77505612373352,
+    "num_plans": 9
+  },
+  {
+    "iteration": 2,
+    "solved_count": 10,
+    "timeout_count": 0,
+    "failed_count": 0,
+    "solve_rate": 1.0,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 35.63352966308594,
+    "num_plans": 10
+  },
+  {
+    "iteration": 3,
+    "solved_count": 5,
+    "timeout_count": 5,
+    "failed_count": 0,
+    "solve_rate": 0.5,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 310.17440581321716,
+    "num_plans": 5
+  },
+  {
+    "iteration": 4,
+    "solved_count": 0,
+    "timeout_count": 10,
+    "failed_count": 0,
+    "solve_rate": 0.0,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 657.8701422214508,
+    "num_plans": 0
+  },
+  {
+    "iteration": 5,
+    "solved_count": 0,
+    "timeout_count": 10,
+    "failed_count": 0,
+    "solve_rate": 0.0,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 662.128237247467,
+    "num_plans": 0
+  },
+  {
+    "iteration": 6,
+    "solved_count": 0,
+    "timeout_count": 10,
+    "failed_count": 0,
+    "solve_rate": 0.0,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 655.0602436065674,
+    "num_plans": 0
+  },
+  {
+    "iteration": 7,
+    "solved_count": 0,
+    "timeout_count": 10,
+    "failed_count": 0,
+    "solve_rate": 0.0,
+    "confidence_level": 0.99,
+    "confidence_changed": false,
+    "iteration_time": 660.7520291805267,
+    "num_plans": 0
+  }
+]
