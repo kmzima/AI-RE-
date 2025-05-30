@@ -9,9 +9,8 @@ _ICAPS 2020: Proceedings of the International Conference on Automated Planning a
 
 Overview
 
-This study reproduces the uncertainty-based framework for learning likely-admissible heuristics using Bayesian neural networks (BNNs) and task uncertainty modeling.
+This study reproduces the uncertainty-based framework for learning likely-admissible heuristics using the following components:
 
-### Key Components
 - Bayesian Neural Network (WUNN)
 - Standard Feedforward NN with aleatoric uncertainty
 - GenerateTaskPrac (uncertainty-based task generation)
@@ -32,22 +31,22 @@ This study reproduces the uncertainty-based framework for learning likely-admiss
 - SciPy
 - Matplotlib
 
-### Setup
+## Setup
 '''bash
 git clone https://github.com/[kmzima]/AI-RE-.git
 cd uncertainty-heuristic-reproduction
 pip install torch numpy scipy matplotlib
 
-### For quick test run use
+## For quick test run use
 \texttt{python run_experiments.py --quick}
 - approximately 30 mins runtime
 
-### For Full Reproduction run use
+## For Full Reproduction run use
 \texttt{python run_experiments.py
 }
 - total runtime is approximately 672 mins
 
-### Repository Structure
+## Repository Structure
 ├── domain.py                  # 15-puzzle & IDA* search
 ├── StateRepresentation.py     # One-hot & feature encodings
 ├── NeuralNetworkComponents.py # FFNN, WUNN, uncertainty modeling
@@ -58,24 +57,24 @@ pip install torch numpy scipy matplotlib
 ├── plots/                     # Output visualizations
 └── README.md
 
-### Expected Results that we produced
+## Expected Results that we produced
 - suboptimality_results.json
 - efficiency_results.json
 - training_progress.json
 
-### Visual Plots
+## Visual Plots
 - Suboptimality vs Confidence
 - Training progress
 - Effieciency comparison (GTP vs Fixed)
 - Search effort analysis
 
-### Console logs 
+## Console logs 
 - Iteration summary
 - solve rates and timeouts
 - Confidence level adaptation
 - Reproducibility insights
 
-### Hyperparameters
+## Hyperparameters
 Hyperparameters were all set as in the original paper and can be accessed and modified in the hyperparameter_config.py:
 - hidden_neurons = 20
 - dropout_rate = 0.025
@@ -96,7 +95,7 @@ Hyperparameters were all set as in the original paper and can be accessed and mo
 - GPU: likely not required
 - Runtime: approximately 11.19 hours for full reproduction of experiments. 
 
-### Key results and findings
+## Key results and findings
 - Lower training solve rates
 - Suboptimality difficulty due to limited task success
 - Effeciency is partially reproduced.
