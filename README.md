@@ -7,7 +7,7 @@ This repository contains our implementation for reproducing the experiments from
 *Ofir Marom, Benjamin Rosman*  
 _ICAPS 2020: Proceedings of the International Conference on Automated Planning and Scheduling_
 
-Overview
+## Overview
 
 This study reproduces the uncertainty-based framework for learning likely-admissible heuristics using the following components:
 
