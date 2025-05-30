@@ -31,7 +31,7 @@ This study reproduces the uncertainty-based framework for learning likely-admiss
 - SciPy
 - Matplotlib
 
-## Setup
+### Setup
 '''bash
 git clone https://github.com/[kmzima]/AI-RE-.git
 cd uncertainty-heuristic-reproduction
