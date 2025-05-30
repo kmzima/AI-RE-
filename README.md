@@ -96,7 +96,9 @@ Hyperparameters were all set as in the original paper and can be accessed and mo
 Overall our findings contribute to understanding how reproduced implementations can vary from the original design.
 
 
-
+#### Disclaimer
+This code was submitted in partial fulfilment of the an MSc in Data Science degree at the University of Witwatersrand.
+AI tools were used to help in implementing the code but the code was written and implemented by me. 
 
 
 
