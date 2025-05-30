@@ -19,7 +19,7 @@ This study reproduces the uncertainty-based framework for learning likely-admiss
 
 ## Reproduction Goals
 
-- Suboptimality Performance: Reproduce 2–6% suboptimality for various confidence levels \(\alpha \)
+- Suboptimality Performance: Reproduce 2–6% suboptimality for various confidence levels
 - Training Efficiency: Validate that uncertainty-guided task generation (GTP) outperforms fixed increments
 
 ## Installation
